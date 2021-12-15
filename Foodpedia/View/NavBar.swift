@@ -1,3 +1,12 @@
+//
+//  NavBar.swift
+//  Foodpedia
+//
+//  Created by FoodPedia on 12/14/21.
+//
+
+
+
 import SwiftUI
 
 struct NavBar: View {

@@ -2,7 +2,7 @@
 //  ReceipeListCell.swift
 //  Foodpedia
 //
-//  Created by FoodPedia on 14/11/21.
+//  Created by FoodPedia on 12/14/21.
 //
 
 import SwiftUI
