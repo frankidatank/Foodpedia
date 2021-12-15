@@ -17,19 +17,34 @@ struct ContentView: View {
             VStack {
                 
                 if navigator.isSearchPageOpen {
-                    
-                    
+                    VStack (spacing : -35){
+                        NavBar(color: .blue, bodyText: "Choose Ingredients")
+                            .transformEffect(.init(translationX: 0, y: -35))
+                        VStack{
+                            SearchReciepe()
+                                .padding()
+                        }
+                        .cornerRadius(20)
+                    }
                 }else if navigator.isReciepeListOpen {
-                    
-                    
+                    VStack (spacing : -35){
+                        NavBar(color: .yellow, bodyText: "Choose Reciepe")
+                            .transformEffect(.init(translationX: 0, y: -35))
+                        VStack{
+                            ReciepeListPage()
+                                .padding()
+                        }
+                        .cornerRadius(20)
+                    }
                 }else{
-              
+                    CurrentReciepePage()
+
                 }
                 
                 
                 Spacer()
                 
-               
+               TabBar()
             }
             
             if isSearching.isSearching{
