@@ -20,7 +20,7 @@ Other tools used: Spoonacular API, Figma
 
 ### Screenshots
 
-### Design
+### Wireframe 
 ![image](https://user-images.githubusercontent.com/55736420/145882466-cedde34a-fcc8-4956-ace9-c10b2c7a2639.png)
 ### Final
 ![image](https://user-images.githubusercontent.com/34355192/146456384-1d9d2967-2662-431a-b7e3-8c4bcf106933.png)
