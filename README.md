@@ -1,5 +1,6 @@
 # Foodpedia  🍏🍎🍐🍊🍋🍌🍉🍇🍓
 ## CSC690-Final Project
+Frank Murillo, Dev Soni, Salsabila Solachuddin
 ---
 
 ### Description
