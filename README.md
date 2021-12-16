@@ -28,11 +28,11 @@ Other tools used: Spoonacular API, Figma
 
 ---
 ## Must have features 
-- [ ] List of ingredients page
-- [ ] List of custom recipes page
-- [ ] Show number of likes by recipe
-- [ ] Recipe page with steps and description 
-- [ ] Show missed ingredients on recipe page
+- [x] List of ingredients page
+- [x] List of custom recipes page
+- [x] Show number of likes by recipe
+- [x] Recipe page with steps and description 
+- [x] Show missed ingredients on recipe page
 
 ### Whats next?
 
