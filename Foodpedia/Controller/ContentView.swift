@@ -36,15 +36,15 @@ struct ContentView: View {
                         }
                         .cornerRadius(20)
                     }
+                    
                 }else{
                     CurrentReciepePage()
-
                 }
                 
                 
                 Spacer()
                 
-               TabBar()
+                TabBar()
             }
             
             if isSearching.isSearching{
